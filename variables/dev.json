@@ -1,0 +1,5 @@
+{
+    "project": "YOUR-PROJECT-NAME-HERE",
+    "landing_bucket": "YOUR-LANDING-BUCKET-NAME-HERE",
+    "backup_bucket": "YOUR-BACKUP-BUCKET-NAME-HERE"
+}
