@@ -1,4 +1,4 @@
-## Section 7: Testing Airflow DAGs
+# Section 7: Testing Airflow DAGs
 
 This directory holds the source code of Section 7: Testing Airflow DAGs.
 
