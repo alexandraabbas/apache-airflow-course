@@ -38,7 +38,7 @@ export AIRFLOW_HOME=path/to/this/directory
 Initialise Airflow and the metadata database.
 
 ```Bash
-airflow init
+airflow initdb
 ```
 
 Now, you can run both the web server and the scheduler.
